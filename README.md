@@ -2,6 +2,8 @@
 
 Xilindron is a development board for Xilinx CPLD's. This board allows to use (9536) VQ44, (9572XL) VQ64 and (9572XL)TQ100. This is a work in progress.
 
+The board is designed to plug on a veroboard (protoboard).
+
 # Images
 
 <img src="https://github.com/arananet/XilinDron/blob/master/images/top.png?raw=true">
